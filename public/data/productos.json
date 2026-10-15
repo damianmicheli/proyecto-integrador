@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1234",
+    "nombre": "Pizza Margarita",
+    "precio": 12000,
+    "stock": 15,
+    "imagen": "/images/pizza.jpg"
+  },
+  {
+    "id": "2344",
+    "nombre": "Hamburguesa Completa",
+    "precio": 9500,
+    "stock": 25,
+    "imagen": "/images/hamburguesa.jpg"
+  },
+  {
+    "id": "2545",
+    "nombre": "Ensalada Vegetariana",
+    "precio": 7500,
+    "stock": 50,
+    "imagen": "/images/ensalada.jpg"
+  }
+]
